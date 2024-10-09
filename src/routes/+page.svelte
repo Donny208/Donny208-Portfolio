@@ -11,29 +11,37 @@
 </script>
 
 <div class="flex flex-row h-full justify-center">
-    <div class="grid grid-cols-4 grid-rows-9 gap-1 w-full min-h-screen p-4">
-        <div class="p-2 col-span-3 row-span-4">
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-1 w-full min-h-screen p-4">
+        <!-- Welcome Component -->
+        <div class="p-2 col-span-1 md:col-span-2 lg:col-span-3 row-span-4">
             <Welcome/>
         </div>
-        <div class="p-2 row-span-8">
+        <!-- About Me Component -->
+        <div class="p-2 col-span-1 md:col-span-1 lg:col-span-1 row-span-8">
             <AboutMe/>
         </div>
-        <div class="p-2 row-span-5">
+        <!-- Contact Me Component -->
+        <div class="p-2 col-span-1 md:col-span-1 lg:col-span-1 row-span-5">
             <Contact/>
         </div>
+        <!-- My Time Zone Component -->
         <div class="p-2 col-span-1 row-span-1">
             <TimeZone/>
         </div>
-        <div class="p-2 row-span-3 col-span-1">
+        <!-- Previous Work Component -->
+        <div class="p-2 col-span-1 row-span-3">
             <UpTo/>
         </div>
-        <div class="p-2 row-span-2">
+        <!-- Current Project Component -->
+        <div class="p-2 col-span-1 row-span-2">
             <CurrentProject/>
         </div>
-        <div class="p-2 col-span-2 row-span-1">
+        <!-- Project Banner Component -->
+        <div class="p-2 col-span-1 md:col-span-2 lg:col-span-2 row-span-1">
             <ProjectBanner/>
         </div>
-        <div class="p-2">
+        <!-- Project Cards -->
+        <div class="p-2 col-span-1">
             <ProjectCard
                     name="CareForMyPlant"
                     skills={["Python", "Embedded Systems"]}
@@ -41,7 +49,7 @@
                     projectURL="https://github.com/Donny208/CareForMyPlant"
             />
         </div>
-        <div class="p-2">
+        <div class="p-2 col-span-1">
             <ProjectCard
                     name="HardwareScrape"
                     skills={["Rust", "PostgreSQL", "Docker"]}
@@ -49,7 +57,8 @@
                     projectURL="https://github.com/Donny208/Hardware-Scrape"
             />
         </div>
-        <div class="p-2">
+        <!-- Copyright Component -->
+        <div class="p-2 col-span-1 sm:col-span-2 lg:col-span-1">
             <Copyright/>
         </div>
     </div>
