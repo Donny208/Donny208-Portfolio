@@ -37,7 +37,7 @@
             <ProjectCard
                     name="CareForMyPlant"
                     skills={["Python", "Embedded Systems"]}
-                    imageURL="img/careformyplant.jpg"
+                    imageURL="/img/careformyplant.jpg"
                     projectURL="https://github.com/Donny208/CareForMyPlant"
             />
         </div>

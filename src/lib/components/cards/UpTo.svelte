@@ -4,10 +4,35 @@
 
 <Card.Root class="h-full">
     <Card.Header>
-        <Card.Title>Work Experience</Card.Title>
-        <Card.Description>Card Description</Card.Description>
+        <Card.Title>Work Overview</Card.Title>
+        <Card.Description>Most recent on the top</Card.Description>
     </Card.Header>
     <Card.Content>
-        <p>Card Content</p>
+        <div>
+            <ul>
+                <li>
+                    <div class="flex flex-col">
+                        <div class="flex flex-row justify-between">
+                            <p class="text-sm font-bold">Software Developer</p>
+                            <p class="text-xs italic">Data Fleet</p>
+                        </div>
+                        <div class="flex flex-row justify-between text-xs">
+                            <p>Python, React, JavaScript, Node.js, Docker, Git, PostgreSQL, Firebase, Google Cloud Services</p>
+                        </div>
+                    </div>
+                </li>
+                <li>
+                    <div class="flex flex-col border-t border-gray-500">
+                        <div class="flex flex-row justify-between">
+                            <p class="text-sm font-bold">Software Engineer</p>
+                            <p class="text-xs italic">Micron Technology</p>
+                        </div>
+                        <div class="flex flex-row justify-between text-xs">
+                            <p>C#, ASP.NET, Angular, TypeScript, Git, SQL, Docker, Azure Cloud Services</p>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
     </Card.Content>
 </Card.Root>
