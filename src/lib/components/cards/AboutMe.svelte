@@ -10,7 +10,7 @@
         <div class="text-[75%]">
             <p>Hi, I'm Donovan, a software developer from Idaho, the land of the potatoes 🥔.</p>
             <br>
-            <p>My primary tools of choice includes:</p>
+            <p>My primary tools of choice include:</p>
             <ul class="list-disc ml-3">
                 <li>Python</li>
                 <li>React</li>
