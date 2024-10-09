@@ -11,7 +11,7 @@
     <Card.Content class="flex flex-row h-full justify-evenly">
         <div class="flex flex-col max-h-full w-2/3">
             <div class="max-h-1/2 space-y-3 text-[100%]">
-                <p>I'm <b>Donovan Wright</b>, a software developer with over four years of professional experience, backed by over ten years of coding expertise. I specialize in full stack development, bringing a balanced approach to both front-end and back-end solutions.</p>
+                <p>I'm <b>Donovan Wright</b>, a software developer with over four years of professional experience and more than ten years of coding expertise. I specialize in full-stack development, bringing a balanced approach to both front-end and back-end solutions.</p>
                 <p>Whether you have a project in mind or simply want to connect, feel free to reach out!</p>
             </div>
             <div class="h-1/2 w-full flex flex-row justify-evenly items-center gap-2　mb-5">
