@@ -5,7 +5,7 @@
 <Card.Root class="h-full">
     <Card.Header>
         <Card.Title>Work Overview</Card.Title>
-        <Card.Description>Most recent on the top</Card.Description>
+        <Card.Description>Most recent experience on the top</Card.Description>
     </Card.Header>
     <Card.Content>
         <div>
