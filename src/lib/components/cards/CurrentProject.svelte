@@ -4,9 +4,12 @@
 
 <Card.Root class="h-full">
     <Card.Header>
-        <Card.Title>Current Project</Card.Title>
+        <Card.Title>Current Personal Project</Card.Title>
     </Card.Header>
-    <Card.Content class="text-sm">
-        <p>Learning Svelte by created a mock SaaS application.</p>
+    <Card.Content class="text-xs">
+        <ul>
+            <li>• Learning the Svelte framework by creating a mock SaaS application & this portfolio!</li>
+            <li>• A Rust-based application for April Fools.</li>
+        </ul>
     </Card.Content>
 </Card.Root>

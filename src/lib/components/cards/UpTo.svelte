@@ -17,7 +17,7 @@
                             <p class="text-xs italic">Data Fleet</p>
                         </div>
                         <div class="flex flex-row justify-between text-xs">
-                            <p>Python, React, JavaScript, Node.js, Docker, Git, PostgreSQL, Firebase, Google Cloud Services</p>
+                            <p>Python, React, JavaScript, Node.js, Docker, Git, PostgreSQL, Firebase, GCP, etc.</p>
                         </div>
                     </div>
                 </li>
@@ -28,7 +28,7 @@
                             <p class="text-xs italic">Micron Technology</p>
                         </div>
                         <div class="flex flex-row justify-between text-xs">
-                            <p>C#, ASP.NET, Angular, TypeScript, Git, SQL, Docker, Azure Cloud Services</p>
+                            <p>C#, ASP.NET, Angular, TypeScript, Git, SQL, Docker, Azure Cloud Services, etc.</p>
                         </div>
                     </div>
                 </li>
