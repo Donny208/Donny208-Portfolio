@@ -7,7 +7,7 @@
         <Card.Title>About Me</Card.Title>
     </Card.Header>
     <Card.Content>
-        <div class="text-[75%]">
+        <div class="text-[100%]">
             <p>Hi, I'm Donovan, a software developer from Idaho, the land of the potatoes 🥔.</p>
             <br>
             <p>My primary tools of choice include:</p>

@@ -9,7 +9,7 @@
         <Card.Description>Let's get in touch!</Card.Description>
     </Card.Header>
     <Card.Content>
-        <div class="flex flex-col h-full justify-evenly space-y-[30%]">
+        <div class="flex flex-col h-full justify-evenly space-y-[30%] text-[100%]">
             <div>
                 <h1 class="font-bold">Contact Details</h1>
                 <a href={`mailto:${EMAIL}`}>

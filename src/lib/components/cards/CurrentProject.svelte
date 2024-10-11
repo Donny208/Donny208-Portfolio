@@ -6,7 +6,7 @@
     <Card.Header>
         <Card.Title>Current Personal Project</Card.Title>
     </Card.Header>
-    <Card.Content class="text-sm">
+    <Card.Content class="text-[100%]">
         <ul class="list-disc ml-3">
             <li>Learning the Svelte framework by creating a mock SaaS application & this portfolio!</li>
             <li>A Rust-based application for April Fools.</li>
