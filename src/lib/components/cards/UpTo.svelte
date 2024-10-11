@@ -8,8 +8,8 @@
         <Card.Description>Most recent experience on the top</Card.Description>
     </Card.Header>
     <Card.Content>
-        <div>
-            <ul>
+        <div class="">
+            <ul class="space-y-[10%] align-middle">
                 <li>
                     <div class="flex flex-col">
                         <div class="flex flex-row justify-between">
