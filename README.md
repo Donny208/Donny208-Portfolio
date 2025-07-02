@@ -7,7 +7,7 @@ me@thedon.cloud ❖ Idaho
 **Boise State University**  
 *Bachelor of Science in Computer Science*  
 May 2022, Boise, ID  
-- Magna Cum Laude; 3.78/4.0 GPA  
+- Magna Cum Laude; 3.8/4.0 GPA  
 
 ## WORK EXPERIENCE
 **Data Fleet**  
